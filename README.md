@@ -46,8 +46,9 @@ This Python script automates the following tasks:
     - After successful login, creates a persistent credentials.json file for future use.
 ---
 ## 📦 Output
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c695d4c5-4227-416e-b63d-ad297254e2b1" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/41ba2281-8c9f-4c4b-8e7f-30bf8d4402e1" />
+<img width="1918" height="1078" alt="Screenshot 2025-08-10 115315" src="https://github.com/user-attachments/assets/b9d1008d-8ce7-40f7-bff2-43918ed980e1" />
+<img width="1918" height="1078" alt="Screenshot 2025-08-10 115341" src="https://github.com/user-attachments/assets/fb15d5a5-26cd-4adb-8ec1-6e7c993cda28" />
+
 
 ---
 # 📊 Task #2
@@ -67,7 +68,8 @@ This Python script analyzes **code contribution data (lines of code added, remov
 ---
 ## 📦 Output
 Here's output of one of my repository
-<img width="757" height="321" alt="image" src="https://github.com/user-attachments/assets/e77a138a-9801-42df-9af9-06e3a4e14eec" />
+<img width="1196" height="403" alt="Screenshot 2025-08-10 115533" src="https://github.com/user-attachments/assets/8fae9369-6107-4cbd-8f40-03f5c20c0820" />
+
 
 ---
 # 🚀 Task #3
